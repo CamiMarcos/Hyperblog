@@ -16,11 +16,7 @@ body {
     color: rgb(159, 157, 157); 
     background-color: rgb(62, 62, 125); 
     box-shadow: 0px 15px 39px -17px rgba(0,0,0,0.65);
-<<<<<<< HEAD
-
-=======
     border-radius: 20px 20px 0 0;
->>>>>>> cb787de6e516a16f5860648c4436ff3b70df496d
 }
 .header .left {
     display: flex;
